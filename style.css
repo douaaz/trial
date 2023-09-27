@@ -1,0 +1,645 @@
+body{
+  background-color: #FBFBFC;
+  background-size: 100%;
+  width: 1440px;
+  height: 974px;
+  background-position: absolute;
+  top: -487px;
+  left: -720px;
+
+}
+#logo{
+  width: 132px;
+  height: 28px;
+  position: absolute;
+  top: 23px;
+  left: 100px;
+}
+.rectangle1{
+  width: 1440px;
+  height: 75px;
+  background-color: #452C78;
+  position: absolute;
+  top: 0px;
+}
+
+@font-face {
+    font-family: 'Gotham';
+    src:
+        url('GothamMedium.ttf')
+        format('opentype');
+        font-weight: normal;
+        font-style: normal;
+}
+#Exp_Sev{
+  width: 107px;
+  height: 16px;
+  font-family: 'Gotham';
+  font-style: normal;
+  font-size: 13px;
+  line-height: 15.6px;
+  letter-spacing: -0.01em;
+  text-align: left;
+  color: white;
+  position: absolute;
+  top: 29px;
+  left: 721px;
+}
+
+#chev_up{
+  width: 9px;
+  height: 10px;
+  font-size: 7px;
+  font-weight: 900;
+  line-height: 10px;
+  color: white;
+  text-align: left;
+  position: absolute;
+  top: 45px;
+  left: 837px;
+
+}
+#chev_down{
+  width: 9px;
+  height: 10px;
+  position: absolute;
+  top: 45px;
+  left: 1004px;
+  color: white;
+  font-size: 7px;
+  font-weight: 900;
+  line-height: 10px;
+  letter-spacing: 0em;
+  text-align: left;
+
+}
+#On_Re{
+  width: 99px;
+  height: 16px;
+  font-family: 'Gotham';
+  font-style: normal;
+  font-size: 13px;
+  font-weight: 500;
+  line-height: 16px;
+  letter-spacing: -0.01em;
+  text-align: left;
+  color: white;
+  position:absolute;
+  top: 29px;
+  left: 898px;
+
+}
+#f_a{
+  width: 87px;
+  height: 16px;
+  position: absolute;
+  top: 29px;
+  left: 1065px;
+  font-family: 'Gotham';
+  font-size: 13px;
+  font-weight: 500;
+  line-height: 16px;
+  letter-spacing: -0.01em;
+  text-align: left;
+  color: white;
+
+}
+#My_t{
+  width: 69px;
+  height: 16px;
+  position: absolute;
+  top: 29px;
+  left: 1204px;
+  color: white;
+  font-family: 'Gotham';
+  font-size: 13px;
+  font-weight: 500;
+  line-height: 16px;
+  letter-spacing: -0.01em;
+  text-align: left;
+
+}
+#s_icon{
+  width: 16px;
+  height: 16px;
+  position: absolute;
+  top: 40px;
+  left: 1324px;
+  color: white;
+  font-size: 16px;
+  text-align: left;
+
+}
+.Rectangle15{
+  width: 124px;
+  height: 2px;
+  background-color: #FDD141;
+  position:absolute;
+  top: 74px;
+  left: 722px;
+}
+#middleicon{
+  width: 824.92px;
+  height: 825px;
+  position: fixed;
+  top: 485px;
+  left: 1045px;
+  opacity: 0.02;
+
+}
+.Rectangle7{
+  width: 1440px;
+  height: 120px;
+  position: absolute;
+  top: 856px;
+  background-color: #452C78;
+}
+
+.Rectangle8{
+  width: 40px;
+  height: 40px;
+  background-color: white;
+  position: absolute;
+  top: 911px;
+  left: 594px;
+  border-radius: 3px;
+  opacity: 0.03;
+
+
+}
+#env{
+  width: 14px;
+  height: 14px;
+  position: absolute;
+  top: 924px;
+  left: 607px;
+  opacity: 0.8;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 14px;
+  letter-spacing: -0.01em;
+  text-align: left;
+  color: white;
+
+}
+.Rectangle9{
+  width: 40px;
+  height: 40px;
+  background-color: white;
+  position: absolute;
+  top: 911px;
+  left: 664px;
+  border-radius: 3px;
+  opacity: 0.1;
+
+}
+#phone{
+  width: 14px;
+  height: 14px;
+  position: absolute;
+  top: 924px;
+  left: 677px;
+  color: white;
+  opacity: 0.8;
+  text-align: left;
+
+
+}
+.Rectangle10{
+  width: 40px;
+  height: 40px;
+  background-color: white;
+  position: absolute;
+  top: 911px;
+  left: 734px;
+  border-radius: 3px;
+  opacity: 0.03;
+
+}
+#house{
+  width: 16px;
+  position: absolute;
+  height: 14px;
+  top: 924px;
+  left: 746px;
+  color: white;
+  opacity: 0.8;
+
+
+}
+.Rectangle11{
+  width: 40px;
+  height: 40px;
+  background-color: white;
+  position: absolute;
+  top: 911px;
+  left: 804px;
+  border-radius: 3px;
+  opacity: 0.03;
+
+}
+#message{
+  width: 14px;
+  height: 14px;
+  position: absolute;
+  top: 924px;
+  left: 817px;
+  color: white;
+  opacity: 0.8;
+  font-size: 14px;
+  font-weight: 400;
+  text-align: left;
+
+
+}
+#copyright{
+  width: 14px;
+  height: 14px;
+  position: absolute;
+  top: 881px;
+  left: 571px;
+  color: white;
+  opacity: 0.8;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 14px;
+  letter-spacing: -0.01em;
+  text-align: center;
+
+
+}
+#copyright_p{
+  width: 280px;
+  height: 14px;
+  position: absolute;
+  top: 867px;
+  left: 598px;
+  color: white;
+  opacity: 0.8;
+  font-family: 'Gotham';
+  font-size: 12px;
+  font-weight: 200;
+  line-height: 14.4px;
+  letter-spacing: -0.01em;
+  text-align: left;
+
+
+}
+#titlep{
+  width: 483px;
+  height: 104px;
+  position: absolute;
+  top: 149px;
+  left: 835px;
+  font-family: 'Gotham';
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 52px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #452C78;
+
+}
+#bp{
+  width: 401px;
+  height: 175px;
+  position: absolute;
+  top: 300px;
+  left: 837px;
+  font-family: 'Gotham';
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 25px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #452C78;
+
+}
+.Rectangle4{
+  width: 610px;
+  height: 574px;
+  position: absolute;
+  top: 119px;
+  left: 101px;
+  border-radius: 3px;
+  border: 1px;
+  background: linear-gradient(0deg, rgba(69, 44, 120, 0.05), rgba(69, 44, 120, 0.05)),
+  linear-gradient(0deg, #FFFFFF, #FFFFFF);
+  border: 1px solid #452C780D;
+  box-shadow: 0px 44px 60px 0px #452C780D;
+}
+.Rectangle6{
+  width: 190px;
+  height: 50px;
+  position: absolute;
+  top: 611px;
+  left: 281px;
+  border-radius: 3px;
+  background-color: #615D661A;
+  border-color: #615D661A;
+  color: #615D66;
+  opacity: 0.8;
+  font-family: 'Gotham';
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 17px;
+  letter-spacing: -0.01em;
+  text-align: center;
+}
+
+#reset{
+  width: 14px;
+  height: 14px;
+  position: absolute;
+  top: 630px;
+  left: 314px;
+  color: #615D66;
+  opacity: 0.5;
+  font-size: 14px;
+  font-weight: 900;
+  line-height: 14px;
+  letter-spacing: -0.01em;
+  text-align: center;
+
+}
+.Rectangle16{
+  width: 190px;
+  height: 50px;
+  position: absolute;
+  top: 611px;
+  left: 491px;
+  border-radius: 3px;
+  background-color: #F28875;
+  font-family: 'Gotham';
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 17px;
+  letter-spacing: -0.01em;
+  text-align: center;
+  color: white;
+  border-color: #F28875;
+
+}
+
+#check{
+  width: 14px;
+  height: 14px;
+  position: absolute;
+  top: 628px;
+  left: 546px;
+  color: white;
+  letter-spacing: -0.01em;
+  text-align: center;
+}
+#ShortD{
+  width: 550px;
+  height: 160px;
+  position: absolute;
+  top: 418px;
+  left: 131px;
+  border-radius: 3px;
+  border: 1px;
+  background: #FFFFFF;
+  border: 1px solid #452C7840;
+  outline-color: #452C78;
+  font-family: "Gotham";
+  font-size: 13px;
+  font-weight: 500;
+  line-height: 16px;
+  letter-spacing: -0.02em;
+  text-align: left;
+  color: #452C78;
+
+}
+#shortDp{
+  width: 120px;
+  height: 16px;
+  position: absolute;
+  top: 386px;
+  left: 132px;
+  opacity: 0.9;
+  color: #615D66;
+  font-family: 'Gotham';
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 16px;
+  letter-spacing: -0.02em;
+  text-align: left;
+
+
+}
+#Requester{
+  width: 260px;
+  height: 40px;
+  position:absolute;
+  top: 172px;
+  left: 131px;
+  border-radius: 3px;
+  border: 1px;
+  background: #FFFFFF;
+  border: 1px solid #452C7840;
+  outline-color: #452C78;
+  font-family: "Gotham";
+  font-size: 13px;
+  font-weight: 500;
+  line-height: 16px;
+  letter-spacing: -0.02em;
+  text-align: left;
+  color: #452C78;
+
+}
+#Requesterp{
+  width: 64px;
+  height: 16px;
+  position: absolute;
+  top: 140px;
+  left: 132px;
+  opacity: 0.9;
+  color: #615D66;
+  font-family: 'Gotham';
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 16px;
+  letter-spacing: -0.02em;
+  text-align: left;
+}
+#Role{
+  width: 260px;
+  height: 40px;
+  position: absolute;
+  top: 172px;
+  left: 421px;
+  border-radius: 3px;
+  border: 1px;
+  background: #FFFFFF;
+  border: 1px solid #452C7840;
+  outline-color: #452C78;
+  font-family: "Gotham";
+  font-size: 13px;
+  font-weight: 500;
+  line-height: 16px;
+  letter-spacing: -0.02em;
+  text-align: left;
+  color: #452C78;
+
+}
+#Rolep{
+  width: 29px;
+  height: 16px;
+  position: absolute;
+  top: 140px;
+  left: 422px;
+  opacity: 0.9;
+  font-family: "Gotham";
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 16px;
+  letter-spacing: -0.02em;
+  text-align: left;
+  color: #615D66;
+
+
+}
+#Location{
+  width: 260px;
+  height: 40px;
+  position: absolute;
+  top: 254px;
+  left: 131px;
+  border-radius: 3px;
+  border: 1px;
+  background: #FFFFFF;
+  border: 1px solid #452C7840;
+  outline-color: #452C78;
+  font-family: "Gotham";
+  font-size: 13px;
+  font-weight: 500;
+  line-height: 16px;
+  letter-spacing: -0.02em;
+  text-align: left;
+  color: #452C78;
+
+}
+#locationp{
+  width: 55px;
+  height: 16px;
+  position: absolute;
+  top: 222px;
+  left: 132px;
+  opacity: 0.9;
+  color: #615D66;
+  font-family: 'Gotham';
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 16px;
+  letter-spacing: -0.02em;
+  text-align: left;
+
+
+}
+#ContactN{
+  width: 260px;
+  height: 40px;
+  position: absolute;
+  top: 254px;
+  left: 421px;
+  border-radius: 3px;
+  border: 1px;
+  background: #FFFFFF;
+  border: 1px solid #452C7840;
+  outline-color: #452C78;
+  font-family: "Gotham";
+  font-size: 13px;
+  font-weight: 500;
+  line-height: 16px;
+  letter-spacing: -0.02em;
+  text-align: left;
+  color: #452C78;
+}
+#contactNp{
+  width: 105px;
+  height: 16px;
+  position: absolute;
+  top: 222px;
+  left: 422px;
+  opacity: 0.9;
+  color: #615D66;
+  font-family: "Gotham";
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 16px;
+  letter-spacing: -0.02em;
+  text-align: left;
+
+}
+#help{
+  width: 260px;
+  height: 40px;
+  position: absolute;
+  top: 336px;
+  left: 131px;
+  border-radius: 3px;
+  border: 1px;
+  background: #FFFFFF;
+  border: 1px solid #452C7840;
+  outline-color: #452C78;
+  font-family: "Gotham";
+  font-size: 13px;
+  font-weight: 500;
+  line-height: 16px;
+  letter-spacing: -0.02em;
+  text-align: left;
+  color: #452C78;
+
+}
+#helpp{
+  width: 170px;
+  height: 16px;
+  position: absolute;
+  top: 304px;
+  left: 132px;
+  opacity: 0.9;
+  color: #615D66;
+  font-family: "Gotham";
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 16px;
+  letter-spacing: -0.02em;
+  text-align: left;
+}
+#servicetypepp{
+  width: 128px;
+  height: 16px;
+  position: absolute;
+  top: 304px;
+  left: 422px;
+  opacity: 0.9;
+  color: #615D66;
+  font-family: 'Gotham';
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 16px;
+  letter-spacing: -0.02em;
+  text-align: left;
+
+
+}
+#servicetype{
+  width: 260px;
+  height: 40px;
+  position: absolute;
+  top: 336px;
+  left: 421px;
+  border-radius: 3px;
+  border: 1px;
+  background: #FFFFFF;
+  border: 1px solid #452C7840;
+  outline-color: #452C78;
+  font-family: "Gotham";
+  font-size: 13px;
+  font-weight: 500;
+  line-height: 16px;
+  letter-spacing: -0.02em;
+  text-align: left;
+  color: #452C78;
+}
